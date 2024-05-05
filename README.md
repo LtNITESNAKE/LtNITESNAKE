@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=LTNITESNAKE&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='(https://www.google.com/imgres?q=dev%20meme&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2624671474457476&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fp%2FDev-Memes-100064856284512%2F&docid=awreYPYlCZZL2M&tbnid=U_QK9Nswe5T4pM&vet=12ahUKEwjP1pT5oPaFAxV0BNsEHWK2A4YQM3oECCQQAA..i&w=960&h=954&hcb=2&ved=2ahUKEwjP1pT5oPaFAxV0BNsEHWK2A4YQM3oECCQQAA)' style="height: 400px;"/>
+<img src='[(https://www.google.com/imgres?q=dev%20meme&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2624671474457476&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fp%2FDev-Memes-100064856284512%2F&docid=awreYPYlCZZL2M&tbnid=U_QK9Nswe5T4pM&vet=12ahUKEwjP1pT5oPaFAxV0BNsEHWK2A4YQM3oECCQQAA..i&w=960&h=954&hcb=2&ved=2ahUKEwjP1pT5oPaFAxV0BNsEHWK2A4YQM3oECCQQAA)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzlwwT6SnK6YMqioxKBgG8LkLoIQEWW7Tzjg&s)' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LTNITESNAKE&icon=2&color=6)](https://visitcount.itsvg.in)
