@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Virtual Assistant**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LtNITESNAKE/Projects](https://github.com/LtNITESNAKE/Projects)
+- 👨‍💻 All of my projects are available in Repos make Sure to check out 
 
 - 💬 Ask me about **python , java or JavaScript**
 
