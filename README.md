@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mujtaba</h1>
+<h1 align="center">I'm Muhammad Mujtaba</h1>
 <h3 align="center">A passionate Student learning and creating Many Things</h3>
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+Hope+you+are+fine+✨;⬇️+Scroll+Down+⬇️;To+Know+More+about+Me+!;&center=true&size=30">
+  </a>
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltnitesnake&label=Profile%20views&color=0e75b6&style=flat" alt="ltnitesnake" /> </p>
 
