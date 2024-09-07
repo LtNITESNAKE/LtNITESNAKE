@@ -23,8 +23,8 @@
 <a href="https://dev.to/codewithmujtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codewithmujtaba" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-mujtaba-84b607319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-mujtaba-84b607319" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad mujtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad mujtaba" height="30" width="40" /></a>
-<a href="https://instagram.com/codewithmujtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithmujtaba" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uccf4j19lpbuq-pgewcwnxaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccf4j19lpbuq-pgewcwnxaw" height="30" width="40" /></a>
+<a href="https://instagram.com/TensorSeven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithmujtaba" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TensorSeven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccf4j19lpbuq-pgewcwnxaw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mujtaba_nite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mujtaba_nite" height="30" width="40" /></a>
 </p>
 
